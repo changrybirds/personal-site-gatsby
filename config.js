@@ -3,12 +3,12 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Chang Sun',
+  subtitle: 'Chang\'s biography, contact info, writing, and photography',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
@@ -22,22 +22,30 @@ module.exports = {
     {
       label: 'Contact me',
       path: '/pages/contacts'
+    },
+    {
+      label: 'Photography',
+      path: 'https://photography.changsun.com'
+    },
+    {
+      label: 'Substack',
+      path: 'https://changsun.substack.com'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Chang Sun',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Full-stack data professional, amateur landscape photographer. Interested in science fiction, urbanism, IR, China, and more.',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: '',
+      telegram: '',
+      twitter: 'changrybirds',
+      github: 'changrybirds',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'changsun',
+      instagram: 'changrybirds',
       line: '',
       gitlab: '',
       weibo: '',
