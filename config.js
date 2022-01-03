@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://www.changsun.com',
   pathPrefix: '/',
   title: 'Chang Sun',
   subtitle: 'Chang\'s biography, contact info, writing, and photography',
@@ -29,7 +29,7 @@ module.exports = {
     },
     {
       label: 'Substack',
-      path: 'https://changsun.substack.com'
+      path: 'https://internetpoints.substack.com'
     }
   ],
   author: {
@@ -37,7 +37,7 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Full-stack data professional, amateur landscape photographer. Interested in science fiction, urbanism, IR, China, and more.',
     contacts: {
-      email: '',
+      email: 'chang@changsun.com',
       facebook: '',
       telegram: '',
       twitter: 'changrybirds',

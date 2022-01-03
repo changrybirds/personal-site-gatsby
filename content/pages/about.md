@@ -8,4 +8,4 @@ Hi, I'm Chang! I've been working as a data professional in a variety of roles: f
 
 Outside of work, I enjoy landscape photography - check out **[my portfolio](https://photography.changsun.com/)** for some of my work.
 
-I also have a personal Substack that I sporadically post to. For now, it'll mostly consist of links to interesting things I've read lately.
+I also have a [personal Substack](https://internetpoints.substack.com/) that I sporadically post to. For now, it'll mostly consist of links to interesting things I've read lately.
