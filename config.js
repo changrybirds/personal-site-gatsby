@@ -29,7 +29,7 @@ module.exports = {
     },
     {
       label: 'Substack',
-      path: 'https://internetpoints.substack.com'
+      path: 'https://changsun.substack.com'
     }
   ],
   author: {
